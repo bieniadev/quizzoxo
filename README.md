@@ -2,10 +2,9 @@
 This is an educational application. It uses things like connecting to Firebase, state management with provider, google/apple authentication.
 
 ## Techs i practise here:
-
--login via Google/Apple
--full Firebase service
--new type of app navigation
--provider
--JSON Serializable
--animation for realtime data streams
+-login via Google/Apple</br>
+-full Firebase service</br>
+-new type of app navigation</br>
+-provider</br>
+-JSON Serializable</br>
+-animation for realtime data streams</br>
